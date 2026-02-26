@@ -34,8 +34,8 @@ $$Y^{DDQN}_t = R_{t+1} + \gamma Q(S_{t+1}, \arg\max_a Q(S_{t+1}, a; \theta); \th
 
 By tracking a fixed set of states periodically during training, we successfully visualize the maximization bias.
 
-*(Note: Add your generated image to the repo and link it here)*
-`![Results Plot](path/to/your/image.png)`
+<img width="1577" height="577" alt="image" src="https://github.com/user-attachments/assets/2b0bfc04-a0e8-418f-8d7a-3660128212d8" />
+
 
 **Key Findings:**
 
